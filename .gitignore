@@ -1,0 +1,4 @@
+build/
+Designs/
+*.bak
+.DS_Store
