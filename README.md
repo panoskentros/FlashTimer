@@ -2,9 +2,7 @@
 
 An iPhone app that strobes the flashlight for a set amount of time. You choose how long, how bright, how fast and in what pattern. Dark UI with an amber accent.
 
-![FlashTimer preview](docs/preview.jpg)
-
-*Preview rendered from the design, not a device screenshot.*
+<img src="docs/preview.jpg" alt="FlashTimer screenshot" width="280">
 
 ## Features
 
