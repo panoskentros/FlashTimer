@@ -8,6 +8,16 @@
 	<string>FlashTimer</string>
 	<key>CFBundleExecutable</key>
 	<string>FlashTimer</string>
+	<key>CFBundleIcons</key>
+	<dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string>AppIcon60x60</string>
+			</array>
+		</dict>
+	</dict>
 	<key>CFBundleIdentifier</key>
 	<string>com.example.flashtimer</string>
 	<key>CFBundleInfoDictionaryVersion</key>
