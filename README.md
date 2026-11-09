@@ -41,3 +41,7 @@ This compiles `FlashTimer.swift` for iPhone and writes an unsigned `FlashTimer.i
 - iOS lowers the torch brightness when the phone gets hot. The app cannot override that.
 - Very fast strobing can look uneven because the phone's LED has limits.
 - Rapid flashing can trigger seizures in people with photosensitive epilepsy.
+
+## License
+
+[MIT](LICENSE)
